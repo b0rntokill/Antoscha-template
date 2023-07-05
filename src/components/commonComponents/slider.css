@@ -1,0 +1,8 @@
+.swiper-wrapper {
+  padding-bottom: 20px;
+}
+
+.swiper-pagination {
+  top: auto !important;
+  bottom: -4px !important;
+}

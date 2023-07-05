@@ -73,6 +73,19 @@ You should probably combine it with
   👆 Use the toggle above to add the plugin.
 </blockquote>
 
+<div class="slider">
+  <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
+  <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+  <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+  <iframe
+  width="640"
+  height="360"
+  src="https://www.youtube.com/embed/xvJRCI9ERsQ?enablejsapi=1&html5=1&rel=0"
+  allowFullScreen
+  iframe-video
+  ></iframe>
+</div>
+
 ## Components
 
 You can pass components to change things:

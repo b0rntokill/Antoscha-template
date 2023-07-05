@@ -1,10 +1,7 @@
-import { useEffect, useState } from 'react'
 import { Redirect } from 'react-router'
 import { Route, Switch } from 'react-router-dom'
-import ExampleApi from './api/example/exampleApi'
-import { ExamplePosts } from './api/example/types'
-import { routes } from './utils'
 import { Layout } from './components'
+import { routes } from './utils'
 
 function App() {
   return (
