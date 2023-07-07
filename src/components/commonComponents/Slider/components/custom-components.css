@@ -1,0 +1,19 @@
+.slider-modal-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 85vh;
+  height: 85vh;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 0 24px;
+  transform: translate(-50%, -50%);
+}
+
+.slider-modal-image img {
+  width: 100%;
+  object-fit: contain;
+}

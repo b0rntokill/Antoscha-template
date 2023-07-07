@@ -75,15 +75,10 @@ You should probably combine it with
 
 <div class="slider">
   <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
-  <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+  <video src="https://into-the-program.com/uploads/sample_video01.mp4"></video>
+  <img src="https://placehold.co/900x400" />
   <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
-  <iframe
-  width="640"
-  height="360"
-  src="https://www.youtube.com/embed/xvJRCI9ERsQ?enablejsapi=1&html5=1&rel=0"
-  allowFullScreen
-  iframe-video
-  ></iframe>
+  <iframe src="https://www.youtube.com/embed/xvJRCI9ERsQ?enablejsapi=1&html5=1&rel=0"></iframe>
 </div>
 
 ## Components

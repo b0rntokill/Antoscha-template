@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "react/prop-types": "off",
+    "treatUndefinedAsUnspecified": "off",
+    "jsx-a11y/media-has-caption": [0, {}]
+  }
+}

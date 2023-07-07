@@ -13,9 +13,9 @@ function MainPage() {
   ) => {
     if (className === SLIDER_CLASS) {
       return <Slider elements={children} />
-    } else {
-      return null
     }
+
+    return null
   }
 
   return (
