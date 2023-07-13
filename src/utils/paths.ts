@@ -7,7 +7,12 @@ export const routes = [
     component: MainPage,
   },
   {
-    path: '/example',
+    path: '/development/:id',
+    exact: true,
+    component: ExamplePage,
+  },
+  {
+    path: '/product/:id',
     exact: true,
     component: ExamplePage,
   },
